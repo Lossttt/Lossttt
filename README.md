@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lost
 - 👀 I’m interested in gaming, programming etc
-- 🌱 I’m currently learning idk
 - 📫 How to reach me discord lost#0420
 
 <!---
