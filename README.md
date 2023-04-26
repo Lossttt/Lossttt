@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://alfa.beryllium.dev/](https://alfa.beryllium.dev/)
 
-- 📫 How to reach me **Discord: lost#0420**
+- 📫 How to reach me **Discord: lost#3819**
 
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
