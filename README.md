@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **Discord: lost#3819**
 
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- ⚡ Fun fact: I play games and go to the gym very often.
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
