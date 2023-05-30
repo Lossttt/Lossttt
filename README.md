@@ -24,16 +24,7 @@
 <br>
 <br>
 
-<h3 align="left">Coding Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lossttt&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="lossttt" /></p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <h3 align="left">Github Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lossttt&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en" alt="lossttt" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lossttt&theme=dark" alt="lossttt" /></p>
