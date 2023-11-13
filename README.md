@@ -1,5 +1,5 @@
 <p><img="https://i.pinimg.com/736x/72/0e/a2/720ea28feb423025b896f0322554eb05.jpg")></p>
-<h1 align="center">Hi 👋, I'm Lossttt // Alfa</h1>
+<h1 align="center">Hi 👋, I'm lost</h1>
 <h3 align="center">A passionate Software Engineering Student and Frontend Developer from the Netherlands!</h3>
 
 - 🔭 I’m currently working on **AthenaVox**
@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://alfa.beryllium.dev/](https://alfa.beryllium.dev/)
 
-- 📫 How to reach me **Discord: lost#3819**
+- 📫 How to reach me **Discord: 404lost**
 
 
 <h3 align="left">Languages and Tools</h3>
@@ -16,7 +16,6 @@
 
 <br>
 <br>
-
 
 <h3 align="left">Github Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lossttt&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en" alt="lossttt" /></p>
