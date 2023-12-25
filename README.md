@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm lost</h1>
 <h3 align="center">A passionate Software Engineering Student and Frontend Developer from the Netherlands!</h3>
 
-- 🔭 I’m currently working on **AthenaVox**
-
-- 🌱 I’m currently learning **Java, C and Python**
+- 🌱 I’m currently learning **Java, C# and Python**
 
 - 👨‍💻 All of my projects are available at [https://alfa.beryllium.dev/](https://alfa.beryllium.dev/)
 
